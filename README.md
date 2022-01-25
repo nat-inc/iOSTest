@@ -12,6 +12,7 @@ Swiftを使います、次のテストを完了します。
 
 今ログインAPIがあります。ログインAPI情報は以下を参考して下さい。
 APIパース: https://devapi.scanat.app/auth/login
+Request方法: POST
 Content-Type: application/json
 パラメータ:
 以下のメールアドレスとパスウードは使うことができます。
